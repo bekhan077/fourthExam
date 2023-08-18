@@ -1,0 +1,126 @@
+.all_footer-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.subscribing {
+  margin-right: 10px;
+}
+
+.footer_input {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  border: 1px solid #e7e8e3;
+  background: #fff;
+  width: 240px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.08);
+  padding: 12px 100px 12px 14px;
+}
+
+.footer_btn {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  border-radius: 6px;
+  border: 1px solid #cf6f49;
+  background: #cf6f49;
+  padding: 13px 28px;
+  margin-left: 16px;
+}
+
+.footer_link {
+  display: block;
+  margin-bottom: 16px;
+}
+.footer-logo {
+  margin-right: 50px;
+}
+.secon__list-footer,
+.cm_pages,
+.utily_pages {
+  margin-right: 70px;
+}
+
+.utily_pagess {
+  margin-right: -50px;
+}
+
+.footer_bottom {
+  background: #c2c2c2;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 10px;
+}
+
+.author {
+  color: #888888;
+  font-size: 14px;
+  font-family: Roboto;
+  line-height: 21px;
+  margin-left: 90px;
+}
+
+.social {
+  margin-right: 70px;
+}
+
+.blog {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding: 5px 10px;
+  border-radius: 32px;
+  background: #e7e8e3;
+  cursor: pointer;
+}
+.post_title {
+  width: 286px;
+  height: 58px;
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+  text-align: left;
+
+  margin-top: 10px;
+  margin-top: 10px;
+}
+
+.post_info {
+  width: 710px;
+  color: #65665c;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.info_wr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.view_all {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  width: 108px;
+  height: 50px;
+  border: none;
+  border: 1px solid #e7e8e3;
+  background: #fff;
+  border-radius: 5px;
+  background: linear-gradient(0deg, #fff, #fff),
+    linear-gradient(0deg, #e7e8e3, #e7e8e3);
+  margin-right: 10px;
+  cursor: pointer;
+}
